@@ -25,4 +25,11 @@ Estos son comillas simples:
 
 ----------------------------------
 # A ***MODELOS DE COLOR COMPATIBLES***
-`rgb(9, 105, 218)`
+`rgb(9, 105, 218)`,
+`hsl(212, 92%, 45%)`,
+`#0969DA`
+
+----------------------------------
+# A ***VINCULOS***
+ctrl+k=
+[Youtube](www.youtube.com)
