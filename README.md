@@ -40,4 +40,6 @@ ctrl+k=
 
 ----------------------------------
 # A ***DELIMITADORES PERSONALIZADOS***
-(<a name="unique-anchor-name"></a>)
+<a name="Mi punto de vista"></a>
+bla bla bla bla y bla bla bla o bla bla bla
+
