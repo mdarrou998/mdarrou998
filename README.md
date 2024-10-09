@@ -33,3 +33,6 @@ Estos son comillas simples:
 # A ***VINCULOS***
 ctrl+k=
 [Youtube](www.youtube.com)
+
+----------------------------------
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
