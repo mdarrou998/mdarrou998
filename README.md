@@ -35,4 +35,9 @@ ctrl+k=
 [Youtube](www.youtube.com)
 
 ----------------------------------
+# A ***VINCULOS RELATIVOS***
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+----------------------------------
+# A ***DELIMITADORES PERSONALIZADOS***
+(<a name="unique-anchor-name"></a>)
