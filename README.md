@@ -40,6 +40,6 @@ ctrl+k=
 
 ----------------------------------
 # A ***DELIMITADORES PERSONALIZADOS***
-<a name="Mi punto de vista"></a>
+<a name="Mi punto de vista">adsfasdf</a>
 bla bla bla bla y bla bla bla o bla bla bla
 
